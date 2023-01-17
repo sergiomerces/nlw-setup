@@ -9,7 +9,7 @@
 body {
     background-color: #09090A;
     color: #ffffff;
-    margin: 1rem;
+    margin: 0;
     display: grid;
     place-items: center;
     height: 100vh;
