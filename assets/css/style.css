@@ -1,5 +1,7 @@
 @charset "UTf-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -9,12 +11,28 @@
 body {
     background-color: #09090A;
     color: #ffffff;
-    margin: 0;
-    display: grid;
-    place-items: center;
     height: 100vh;
 }
 
-h1 {
-    text-transform: uppercase;
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 48px;
+}
+
+button {
+    background-color: transparent;
+    padding: 16px 24px;
+    border: 1px solid #8b5cf6;
+    border-radius: 8px;
+
+    color: #ffffff;
+    font: normal 16px 'Inter', sans-serif;
+    font-weight: 600;
+    line-height: 1.25;
+
+    display: flex;
+    align-items: center;
+    gap: 12px;
 }
