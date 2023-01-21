@@ -18,7 +18,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## :triangular_ruler: O Projeto
 
-![](/home/sergio/projetos/nlw-setup/github/project.png)
+![](./github/project.png)
 
 A aplicação Habits e um página web que usa o controle de formulário checkbox :ballot_box_with_check: para armazenar e rastrear atividades habituais do usuário.
 
@@ -45,4 +45,4 @@ Acesse o projeto:
 
 ## Dev
 
-![Sérgio Mercês](/home/sergio/projetos/nlw-setup/github/devev.png)
+![Sérgio Mercês](./github/devev.png)
